@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    padding: 15px 25px;
+}
+
+.cartao-frente,
+.cartao-verso {
+    width: 100%;
+}
+
+.cartao {
+    width: 260px;
+    height: 200px;
+}
+
+.cartao-imagem {
+
+    width: 100%;
+
+}
+
+body {
+    background-color: rgb(151, 228, 236);
+}
